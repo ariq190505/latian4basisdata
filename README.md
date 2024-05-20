@@ -192,10 +192,5 @@ Dalam banyak kasus, pemilihan antara `RESTRICT dan CASCADE `tergantung pada kebu
 
 - **CASCADE** melakukan tindakan yang sama pada data yang terkait. Jika Anda menghapus atau memperbarui data, CASCADE akan mempengaruhi semua data terkait, termasuk data anak yang terhubung secara rekursif.  
 
-### Buat laporan praktikum yang berisi, langkah-langkah praktikum beserta screenshot yang sudah dilakukan dalam bentuk dokumen.
-
-<img src=https://pngimg.com/uploads/google_drive/google_drive_PNG9.png width="110px" >
-
-- [Link Laporan Praktikum](https://drive.google.com/drive/folders/1-mDxy3hMuN9TpmNj2nwZ1jcPh8-jSR87)
 
 ## FINISH
